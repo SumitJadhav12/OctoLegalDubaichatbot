@@ -1,0 +1,7 @@
+echo "__pycache__/
+*.pyc
+.env
+chroma_db/
+.vscode/
+*.log
+data/" > .gitignore
