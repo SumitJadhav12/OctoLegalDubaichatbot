@@ -10,9 +10,10 @@ Employment Regulations (UAE Federal Labour Law)
 - Jurisdiction: UAE
 
 ## How to Run
-1. `pip install -r requirements.txt`
-2. `python ingest.py`
-3. `streamlit run app.py`
+1.  pip install -r requirements.txt`
+2.  python ingest.py`
+3.  uvicorn main:app --reload --port 8000 
+4. `streamlit run app.py`
 
 ## Fulfilled Requirements
 - Document ingestion with metadata
