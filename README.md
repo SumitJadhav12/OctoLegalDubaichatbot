@@ -86,5 +86,12 @@ Large Language Model
        │
        ▼
 Citation-Grounded Response
+## Technolgies used
+## Backend
+- Python
+- FastAPI
+- Uvicorn
+## Frontend
+Streamlit
 
 
